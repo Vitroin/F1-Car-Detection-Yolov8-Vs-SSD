@@ -1,4 +1,4 @@
-# F1-Car-Detection-Yolov8-Vs-SSSD
+# F1-Car-Detection-Yolov8-Vs-SSD
 
 A computer vision project that detects and classifies Formula 1 cars by team from race broadcast footage, comparing **YOLOv8** and **SSD (VGG16)** object detection architectures across multiple training configurations.
 
